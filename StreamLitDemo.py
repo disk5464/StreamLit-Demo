@@ -5,6 +5,7 @@ import json
 import urllib.parse
 import sys
 import os
+import colorama
 from colorama import Fore, Back, Style
 ########################################################################
 st.write("Hello World")
