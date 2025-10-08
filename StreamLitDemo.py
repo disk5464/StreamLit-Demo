@@ -5,7 +5,6 @@ import json
 import urllib.parse
 import sys
 import os
-import colorama
 ########################################################################
 st.write("Hello World")
 text = st.text_input("Type something:")
