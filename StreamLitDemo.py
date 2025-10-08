@@ -7,7 +7,7 @@ import sys
 import os
 ########################################################################
 #This is the page title
-st.title("Radio ID / VIN (CLI-style)")
+st.title("Radio ID Refresher")
 
 #Create a form so that we can get the ID without refreshing the page everytime.
 with st.form("radio_form"):
